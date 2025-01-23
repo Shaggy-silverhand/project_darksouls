@@ -1,0 +1,15 @@
+tu peut jouer a la manette ou au clavier 
+
+les touche clavier 
+
+shift : sprint 
+E : roll
+click gauche : light attack
+click droit : heavy attack
+
+touche manette
+
+L1 :sprint
+rond : roll
+R1 : light attack
+R2 : heavy attack
